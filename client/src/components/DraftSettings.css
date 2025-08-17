@@ -1,0 +1,52 @@
+.modal-container {
+  padding: 1rem 2rem;
+  min-width: 500px;
+}
+
+.title {
+  font-size: 1.5rem;
+  line-height: 2rem;
+  font-weight: 500;
+  color: #26292e;
+  margin-bottom: 2rem;
+}
+
+.draft-settings__label {
+  font-size: 0.75rem;
+  line-height: 1rem;
+  letter-spacing: '0.5%';
+  font-weight: 600;
+  color: #26292e;
+  margin-bottom: 0.5rem;
+  display: block;
+}
+
+.draft-settings__select {
+  width: 100%;
+  padding: 0.5rem;
+  font-size: 0.875rem;
+  line-height: 1.25rem;
+  border-radius: 4px;
+  border: 1px solid #d1d5db;
+  background-color: #fff;
+  margin-top: 0.5rem;
+}
+
+.draft-settings__select-container {
+  margin-bottom: 1rem;
+}
+
+.draft-settings__save-button {
+  font-size: 0.875rem;
+  line-height: 1.25rem;
+  font-weight: 600;
+  letter-spacing: '0.025%';
+  border: none;
+  padding: 1rem 2rem;
+  border-radius: 4px;
+  cursor: pointer;
+  background-color: #6963ec;
+  color: #f4f7ff;
+  width: 100%;
+  margin-top: 1rem;
+}

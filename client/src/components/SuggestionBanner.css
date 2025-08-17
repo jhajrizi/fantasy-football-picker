@@ -1,0 +1,108 @@
+.suggestion-banner {
+  background: white;
+  color: black;
+  padding: 1rem 2rem;
+  border-radius: 12px;
+  margin-bottom: 20px;
+  border: 1px solid #6963ec;
+}
+
+.suggestion-banner__header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.suggestion-banner__title {
+  font-size: 1.5rem;
+  line-height: 2rem;
+  font-weight: 500;
+  color: #26292e;
+}
+
+.suggestion-banner__info {
+  display: flex;
+  gap: 16px;
+  flex-wrap: wrap;
+  font-size: 0.875rem;
+  line-height: 1.25rem;
+  font-weight: 500;
+  color: #26292e;
+}
+
+.suggestion-banner__info span {
+  background: #e2f3ff;
+  color: #1e4b8d;
+  padding: 4px 8px;
+  border-radius: 6px;
+  white-space: nowrap;
+}
+
+.suggestion-banner__content {
+  margin-top: 1rem;
+}
+
+.suggestion-banner__status {
+  font-size: 0.75rem;
+  line-height: 1rem;
+  font-weight: 500;
+  margin-bottom: 1rem;
+  padding: 0.5rem 1rem;
+  background: #e2f3ff;
+  color: #1e4b8d;
+  border-left: 4px solid #1874ed;
+}
+
+.suggestion-banner__recommendations {
+  margin-top: 1rem;
+}
+
+.suggestion-banner__recommendations h3 {
+  font-size: 1.5rem;
+  line-height: 2rem;
+  font-weight: 500;
+  color: #26292e;
+  margin-bottom: 1rem;
+}
+
+.suggestion-banner__player-list {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.suggestion-banner__player {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0.5rem 0;
+}
+
+.suggestion-banner__player .player-name {
+  font-size: 0.875rem;
+  line-height: 1.25rem;
+  font-weight: 400;
+  color: #26292e;
+  min-width: 150px;
+}
+
+.suggestion-banner__player .player-position {
+  background: #26292e;
+  color: #eef2f9;
+  padding: 0.5rem 1rem;
+  border-radius: 4px;
+  font-size: 0.6875rem;
+  line-height: 1rem;
+  font-weight: 500;
+  letter-spacing: '0.5%';
+}
+
+.suggestion-banner__player .player-tier,
+.suggestion-banner__player .player-value {
+  font-size: 0.875rem;
+  line-height: 1.25rem;
+  font-weight: 400;
+  color: #26292e;
+}
