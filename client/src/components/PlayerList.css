@@ -1,0 +1,101 @@
+.title {
+  font-size: 1.5rem;
+  line-height: 2rem;
+  font-weight: 500;
+  color: #26292e;
+}
+
+.player-card {
+  border-radius: 12px;
+  background-color: white;
+  padding: 1rem 2rem;
+  margin-top: 1rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.player-card-name {
+  font-size: 0.875rem;
+  line-height: 1.25rem;
+  font-weight: 500;
+  color: #26292e;
+}
+
+.player-card-name__drafted {
+  font-size: 0.875rem;
+  line-height: 1.25rem;
+  font-weight: 500;
+  color: #26292e;
+  text-decoration: line-through;
+}
+
+.player-card-button__undrafted {
+  background-color: #eef2f9;
+  color: #26292e;
+}
+
+.player-card-button__undrafted:hover {
+  background-color: #dadee5;
+  color: #26292e;
+}
+
+.player-card-button__drafted {
+  background-color: #d7333a;
+  color: #fff1ee;
+}
+
+.player-card-button__drafted:hover {
+  background-color: #ff6664;
+  color: #fff1ee;
+}
+
+.player-card-button {
+  font-size: 0.875rem;
+  line-height: 1.25rem;
+  font-weight: 600;
+  letter-spacing: '0.025%';
+  border: none;
+  padding: 1rem 2rem;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.search-container {
+  margin: 1rem 0;
+}
+
+.search-label {
+  font-size: 0.75rem;
+  line-height: 1rem;
+  letter-spacing: '0.5%';
+  font-weight: 600;
+  color: #26292e;
+  margin-bottom: 0.5rem;
+  display: block;
+}
+
+.search-input {
+  width: 100%;
+  padding: 1rem 2rem;
+  font-size: 0.875rem;
+  border: 1px solid #c6cbd1;
+  border-radius: 4px;
+  background-color: white;
+  color: #26292e;
+  box-sizing: border-box;
+}
+
+.search-input::placeholder {
+  color: #71757a;
+}
+
+.search-input:focus {
+  outline: none;
+  border-color: #4f46e5;
+  box-shadow: 0 0 0 2px rgba(79, 70, 229, 0.1);
+}
+
+.search-input::placeholder {
+  color: #9ca3af;
+}
