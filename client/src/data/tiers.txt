@@ -1,0 +1,42 @@
+qb:
+Tier 1 - Draft value: 3rd round
+Tier 2 - Draft value: Late 3rd to 4th round
+Tier 3 - Draft value: 6th to 7th round
+Tier 4 - Draft value: 8th to 9th round
+Tier 5 - Draft value: 10th to 11th round
+Tier 6 - Draft value: 12th to 14th
+Tier 7 - Draft value: 15th round or later
+
+rb:
+Tier 1 - Draft value: Early 1st round
+Tier 2 - Draft value: Mid to late 1st round
+Tier 3 - Draft value: Late 1st to mid-2nd round
+Tier 4 - Draft value: Mid-2nd to 3rd round
+Tier 5 - Draft value: 3rd to 4th round
+Tier 6 - Draft value: Late 4th to 6th round
+Tier 7 - Draft value: 6th to 8th round
+Tier 8 - Draft value: 9th to 10th round
+Tier 9 - Draft value: 11th to 12th round
+Tier 10 - Draft value: 13th to 15th round
+Tier 11 - Draft value: 15th round or later
+
+wr:
+Tier 1 - Draft value: Early 1st round
+Tier 2 - Draft value: Early to mid-1st round
+Tier 3 - Draft value: Mid-1st to early 2nd round
+Tier 4 - Draft value: 2nd round
+Tier 5 - Draft value: Late 2nd to early 3rd round
+Tier 6 - Draft value: 3rd to 4th round
+Tier 7 - Draft value: 5th to 7th round
+Tier 8 - Draft value: 7th to 9th round
+Tier 9 - Draft value: 10th to 12th round
+Tier 10 - Draft value: 13th round or later
+
+te:
+Tier 1 - Draft value: 2nd to 3rd round
+Tier 2 - Draft value: 6th to 7th round
+Tier 3 - Draft value: 7th to 8th
+Tier 4 - Draft value: 8th to 9th round
+Tier 5 - Draft value: 9th to 11th round
+Tier 6 - Draft value: 12th to 14th round
+Tier 7 - Draft value: 14th round or later
